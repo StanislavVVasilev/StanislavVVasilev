@@ -1,6 +1,6 @@
 About me:
 
-- 👋 Hi, I’m @StanislavVVasilev but my friends calling me Stan
+- 👋 Hi, I’m @Stanislav Vasilev but my friends calling me Stan
 - 👀 I’m interested in JS Front-End and Python Back-end
 - 🌱 I’m currently learning Python, JS, HTML and CSS
 
