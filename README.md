@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 
