@@ -1,8 +1,8 @@
 About me:
 
 - 👋 Hi, I’m Stanislav Vasilev but my friends calling me Stan
-- 👀 I’m interested in JS Front-End and Python Back-end
-- 🌱 I’m currently learning Python, JS, HTML and CSS
+- 👀 I’m interested in JS Front-End
+- 🌱 I’m currently learning JS, HTML and CSS
 
 <!---
 StanislavVVasilev/StanislavVVasilev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
